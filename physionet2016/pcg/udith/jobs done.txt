@@ -1,0 +1,12 @@
+1. PCG-simple (balanced) model is done
+2. PCG-simple (imbalanced) model is done
+
+Do:
+1. scp the ECG dataset
+2. Create the directories for ECG datasets
+3. Create the ECG dataset
+4. ECG-simple (balanced) model is done
+5. ECG-simple (imbalanced) model is done
+
+
+### Tell ramith: To check the data dividing code:: and to any shuffeling/ etc
